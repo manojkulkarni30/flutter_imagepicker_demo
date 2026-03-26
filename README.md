@@ -1,17 +1,13 @@
 # flutter_imagepicker_demo
 
-A new Flutter project.
+A small Flutter demo showing how to pick an image from gallery or capture one using camera using image_picker plugin.
 
-## Getting Started
+Video walkthrough
 
-This project is a starting point for a Flutter application.
+- YouTube video: [Image Picker in Flutter (Camera + Gallery) | Flutter Tutorial](https://bit.ly/4rZ34wr)
+- Channel: [Manoj Kulkarni](https://bit.ly/41Ryons)
 
-A few resources to get you started if this is your first Flutter project:
+image_picker plugin documentation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Package page: https://pub.dev/packages/image_picker
+- API docs: https://pub.dev/documentation/image_picker/latest/
